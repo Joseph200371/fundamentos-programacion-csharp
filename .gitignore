@@ -1,0 +1,35 @@
+# ===============================
+# Visual Studio / C#
+# ===============================
+
+# Carpetas generadas
+.vs/
+bin/
+obj/
+
+# Archivos de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Resultados de compilación
+*.exe
+*.dll
+*.pdb
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

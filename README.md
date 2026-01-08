@@ -1,18 +1,29 @@
-# Paradigmas de Programación - IFTS N°11
+# Paradigmas de Programación – C#
 
-## Objetivo
-Desarrollar habilidades fundamentales en programación, utilizando un entorno amigable y aplicando conceptos básicos como la descomposición modular y el uso de subprogramas.
+Repositorio con prácticas y ejercicios desarrollados en **C#**, enfocados en los fundamentos de la programación y la resolución de problemas.
 
-## Contenidos Principales
+## Descripción
+Este proyecto reúne trabajos realizados durante la materia *Paradigmas de Programación*, con el objetivo de fortalecer la lógica de programación, la organización del código y el uso de estructuras fundamentales.
 
-- **Estructura de un Programa**: Secuencia, decisión y repetición.
-- **Descomposición Modular**: Métodos, funciones y procedimientos.
-- **Manejo de Arreglos**: Vectores y matrices bidimensionales.
-- **Archivos y Librerías**: Creación, lectura y escritura de archivos, y uso de librerías externas.
+## Conocimientos Aplicados
+- Estructuras de control: secuencia, condicionales y bucles  
+- Programación modular:
+  - Métodos
+  - Funciones
+  - Procedimientos
+- Manejo de arreglos:
+  - Vectores
+  - Matrices bidimensionales
+- Lectura y escritura de archivos
+- Uso de librerías
 
-## Herramientas Utilizadas
-- **Framework**: Eclipse
-- **Lenguaje de Programación**: C#
+## Tecnologías
+- Lenguaje: **C#**
+- IDE: **Visual Studio Community**
+- Paradigma: **Programación estructurada / modular**
 
-## Metodología
-Aplicación de conocimientos en diagramación lógica y desarrollo de ejercicios prácticos para consolidar los conceptos aprendidos.
+## Objetivo Profesional
+Proyecto utilizado como **material de práctica y referencia**, demostrando bases sólidas en programación, lógica y organización de código.
+
+## Estado
+Repositorio activo / prácticas finalizadas.

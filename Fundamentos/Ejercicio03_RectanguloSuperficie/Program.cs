@@ -41,6 +41,8 @@
                 $"{baseRectangulo} x {alturaRectangulo} = {superficie} cm²"
             );
 
+            Console.ReadKey();
+
         }
     }
 }

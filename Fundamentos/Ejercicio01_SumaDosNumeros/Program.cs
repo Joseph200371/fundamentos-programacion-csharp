@@ -36,6 +36,8 @@
             // Mostrar resultado
             Console.WriteLine($"\nEl resultado de la suma es: {sumaTotal}");
 
+            Console.ReadKey();
+
         }
     }
 }

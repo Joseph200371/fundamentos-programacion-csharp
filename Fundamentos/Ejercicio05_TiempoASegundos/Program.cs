@@ -50,6 +50,8 @@
             Console.WriteLine($"Segundos: {segundos}s");
             Console.WriteLine($"Tiempo total en segundos: {totalSegundos}s");
 
+            Console.ReadKey();
+
         }
     }
 }

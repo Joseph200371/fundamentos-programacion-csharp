@@ -53,6 +53,8 @@
 
             // Mostrar el resultado
             Console.WriteLine($"\nLa nota final del estudiante es: {notaFinal}");
+            
+            Console.ReadKey();
 
         }
     }

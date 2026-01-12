@@ -1,33 +1,28 @@
-﻿namespace Ejercicio07_PromedioReales
+﻿namespace Ejercicio18_MenorDeCincoReales
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             // ------------------------------------------------------------
-            // Ejercicio 7 - Promedio de números reales
+            // Ejercicio 18 - Menor de cinco números reales
             // Objetivo:
-            // Leer seis números reales ingresados por el usuario y
-            // calcular el promedio de los mismos.
-            //
-            // Se utiliza el tipo 'float' ya que los valores pueden
-            // contener decimales.
+            // Ingresar 5 números reales e informar el menor de ellos.
+            // Las comparaciones se realizan luego de leer todos los números.
             // ------------------------------------------------------------
 
             Console.WriteLine(
-                "Ejercicio 7:\n" +
-                "Ingresar 6 números reales y calcular su promedio.\n"
+                "Ejercicio 18:\n" +
+                "Ingresar 5 números reales e informar el menor de ellos.\n"
             );
 
-            // Declaración de variables
             float num1 = 0;
             float num2 = 0;
             float num3 = 0;
             float num4 = 0;
             float num5 = 0;
-            float num6 = 0;
 
-            // Solicitud de datos al usuario
+            // Lectura de datos
             Console.Write("Ingrese el primer número: ");
             num1 = float.Parse(Console.ReadLine());
 
@@ -43,18 +38,31 @@
             Console.Write("Ingrese el quinto número: ");
             num5 = float.Parse(Console.ReadLine());
 
-            Console.Write("Ingrese el sexto número: ");
-            num6 = float.Parse(Console.ReadLine());
+            // Determinar el menor
+            float menor = num1;
 
-            // Cálculo de la suma y el promedio
-            float suma = num1 + num2 + num3 + num4 + num5 + num6;
-            float promedio = suma / 6;
+            if (num2 < menor)
+            {
+                menor = num2;
+            }
 
-            // Mostrar resultados
-            Console.WriteLine(
-                $"\nLa suma total de los números es: {suma}" +
-                $"\nEl promedio de los 6 números reales es: {promedio}"
-            );
+            if (num3 < menor)
+            {
+                menor = num3;
+            }
+
+            if (num4 < menor)
+            {
+                menor = num4;
+            }
+
+            if (num5 < menor)
+            {
+                menor = num5;
+            }
+
+            // Mostrar resultado
+            Console.WriteLine($"\nEl menor de los cinco números es: {menor}");
 
             Console.ReadKey();
 

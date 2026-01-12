@@ -44,6 +44,8 @@
                 $"({cantidadParcial} x 100) / {cantidadTotal} = {porcentaje}%"
             );
 
+            Console.ReadKey();
+
         }
     }
 }

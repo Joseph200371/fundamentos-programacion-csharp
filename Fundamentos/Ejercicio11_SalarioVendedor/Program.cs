@@ -53,6 +53,8 @@
 
             // Mostrar resultado
             Console.WriteLine($"\nEl salario total del vendedor es: ${salarioTotal}");
+            
+            Console.ReadKey();
 
         }
     }

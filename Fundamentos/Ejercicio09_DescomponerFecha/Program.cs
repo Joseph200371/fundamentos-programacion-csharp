@@ -46,6 +46,8 @@
                 $"{dia:D2}/{mes:D2}/{anio}"
             );
 
+            Console.ReadKey();
+
         }
     }
 }

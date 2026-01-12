@@ -36,6 +36,8 @@
                 $"{lado} x {lado} = {superficie} cm²"
             );
 
+            Console.ReadKey();
+
         }
     }
 }

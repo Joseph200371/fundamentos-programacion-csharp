@@ -47,6 +47,8 @@
                 $"({baseTriangulo} x {alturaTriangulo}) / {DIVISOR} = {superficie}"
             );
 
+            Console.ReadKey();
+
         }
     }
 }

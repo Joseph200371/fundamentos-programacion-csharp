@@ -1,29 +1,40 @@
 # Paradigmas de Programación – C#
 
-Repositorio con prácticas y ejercicios desarrollados en **C#**, enfocados en los fundamentos de la programación y la resolución de problemas.
+Repositorio con prácticas y ejercicios desarrollados en **C#** durante la materia *Paradigmas de Programación*, enfocados en los fundamentos de la programación y la resolución de problemas.
 
-## Descripción
-Este proyecto reúne trabajos realizados durante la materia *Paradigmas de Programación*, con el objetivo de fortalecer la lógica de programación, la organización del código y el uso de estructuras fundamentales.
+## 📚 Conocimientos aplicados
 
-## Conocimientos Aplicados
-- Estructuras de control: secuencia, condicionales y bucles  
-- Programación modular:
-  - Métodos
-  - Funciones
-  - Procedimientos
-- Manejo de arreglos:
-  - Vectores
-  - Matrices bidimensionales
-- Lectura y escritura de archivos
-- Uso de librerías
+* Estructuras de control:
 
-## Tecnologías
-- Lenguaje: **C#**
-- IDE: **Visual Studio Community**
-- Paradigma: **Programación estructurada / modular**
+  * Secuencias
+  * Condicionales
+  * Bucles
+* Programación modular:
 
-## Objetivo Profesional
-Proyecto utilizado como **material de práctica y referencia**, demostrando bases sólidas en programación, lógica y organización de código.
+  * Métodos
+  * Funciones
+  * Procedimientos
+* Manejo de arreglos:
 
-## Estado
-Repositorio activo / prácticas finalizadas.
+  * Vectores
+  * Matrices bidimensionales
+* Lectura y escritura de archivos
+* Uso de librerías
+
+## 🛠️ Tecnologías
+
+* **Lenguaje:** C#
+* **IDE:** Visual Studio Community
+* **Paradigma:** Programación estructurada y modular
+
+## 🎯 Objetivo
+
+Aplicar y reforzar conceptos fundamentales de programación mediante la resolución de ejercicios prácticos, desarrollando habilidades de **lógica, organización y resolución de problemas**.
+
+## 🎓 Contexto académico
+
+Proyecto realizado durante la formación de **Técnico Superior en Analista de Sistemas**.
+
+## 📌 Estado
+
+En desarrollo — prácticas en curso.
